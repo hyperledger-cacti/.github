@@ -3,8 +3,8 @@
  [![GitHub issues](https://img.shields.io/github/issues/hyperledger-cacti/cacti)](https://github.com/hyperledger-cacti/cacti/issues)
 [![LFX Active Contributors](https://insights.linuxfoundation.org/api/badge/active-contributors?project=cacti)](https://insights.linuxfoundation.org/project/cacti)
 
-![Cacti Logo Color](./images/HL_Cacti_Logo_Color.png#gh-light-mode-only)
-![Cacti Logo Color](./images/HL_Cacti_Logo_Colorreverse.svg#gh-dark-mode-only)
+![Cacti Logo Color](https://raw.githubusercontent.com/hyperledger-cacti/cacti/refs/heads/main/images/HL_Cacti_Logo_Color.png#gh-light-mode-only)
+![Cacti Logo Color](https://raw.githubusercontent.com/hyperledger-cacti/cacti/refs/heads/main/images/HL_Cacti_Logo_Colorreverse.svg#gh-dark-mode-only)
 
 # Hyperledger Cacti
 
@@ -68,6 +68,7 @@ as starting points.
 ## Contact
 * mailing list: [cacti@lists.hyperledger.org](mailto:cacti@lists.hyperledger.org)
 * discord channel: [https://discord.com/invite/hyperledger](https://discord.com/invite/hyperledger)
+* public meetings: [https://zoom-lfx.platform.linuxfoundation.org/meetings/cacti?view=month](https://zoom-lfx.platform.linuxfoundation.org/meetings/cacti?view=month)
 
 ## Contributing
 We welcome contributions to Hyperledger Cacti in many forms, and there’s always plenty to do!
