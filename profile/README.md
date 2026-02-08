@@ -45,7 +45,7 @@ See the official [Hyperledger Cacti documentation](https://hyperledger-cacti.git
 
 ## Roadmap
 
-See [ROADMAP.md](./ROADMAP.md) for details on the envisioned integration.
+See [ROADMAP.md]([./ROADMAP.md](https://github.com/hyperledger-cacti/cacti/blob/main/ROADMAP.md)) for details on the envisioned integration.
 
 ## Inclusive Language Statement
 
@@ -73,7 +73,7 @@ as starting points.
 ## Contributing
 We welcome contributions to Hyperledger Cacti in many forms, and there’s always plenty to do!
 
-Please review [contributing](/CONTRIBUTING.md) guidelines to get started.
+Please review [contributing](https://github.com/hyperledger-cacti/cacti/blob/main/CONTRIBUTING.md) guidelines to get started.
 
 ## License
 This distribution is published under the Apache License Version 2.0 found in the [LICENSE](/LICENSE) file.
